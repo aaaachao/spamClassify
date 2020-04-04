@@ -3,7 +3,7 @@
 
 python实现垃圾邮件分类，测试集准确率为96.4%
 
-具体代码及数据集学习了https://github.com/shijing888/BayesSpam 测试集准确率为95.15%
+具体代码及(数据集)学习https://github.com/shijing888/BayesSpam 其测试集准确率为95.15%
 
 公式原理在其GitHub比较乱，可参考https://blog.csdn.net/starzhou/article/details/76801450， 这里公式比较清晰
 
